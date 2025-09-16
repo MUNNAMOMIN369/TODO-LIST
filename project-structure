@@ -1,0 +1,17 @@
+ToDo-Project/
+├── todo-backend/         # Backend folder (Express + MongoDB)
+│   ├── node_modules/
+│   ├── server.js
+│   ├── package.json
+│   ├── .env              # (optional: add .env to .gitignore)
+│   └── ...other backend files
+├── todo-frontend/        # Frontend folder (React + Vite)
+│   ├── node_modules/
+│   ├── public/
+│   ├── src/
+│   ├── index.html
+│   ├── package.json
+│   ├── vite.config.js
+│   └── ...other frontend files
+├── README.md             # Your project overview
+└── .gitignore            # To ignore node_modules and env files
